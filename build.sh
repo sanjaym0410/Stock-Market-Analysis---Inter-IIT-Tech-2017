@@ -1,0 +1,11 @@
+pip install yahoo-finance
+pip install xlwt
+pip install csv
+pip install bs4
+pip install requests
+pip install numpy
+pip install pandas
+pip install ntlk
+pip install newspaper
+pip install datetime
+pip install re
